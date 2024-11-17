@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Joshua — **Crafting Solutions, Empowering Africa, One Dataset at a Time!**
 
-Welcome to my GitHub! I’m a **Chemical Engineering graduate turned Data Scientist**, driven by a passion for **unlocking insights** and **creating value through data.** My journey into data science is guided by a vision to empower **Nigeria and Africa** by building environments where education, development, and leadership thrive.
+Welcome to my GitHub! I’m a **Chemical Engineer turned Data Scientist**, driven by a passion for **unlocking insights** and **creating value through data.** My journey into data science is guided by a vision to empower **Nigeria and Africa** by building environments where education, development, and leadership thrive.
 
 ---
 
