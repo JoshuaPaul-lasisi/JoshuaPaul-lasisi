@@ -23,7 +23,7 @@ From analyzing fertilizer production processes to building machine learning mode
 ---
 
 ## 🔍 **What You’ll Find Here**
-My GitHub is a reflection of my learning journey, featuring **21+ end-to-end data science projects** designed to tackle diverse challenges. Each project represents a blend of **technical expertise, creativity, and purpose.**
+My GitHub is a reflection of my learning journey, featuring the projects I have embarked on and completed: from my simple works to some **end-to-end data science projects** designed to tackle diverse challenges. Each project represents a blend of **technical expertise, creativity, and purpose.**
 
 ### 🏆 **Featured Projects**
 - **Health Risk Assessment (CHD Prediction)**: Developed a Gradient Boosting model to predict coronary heart disease risks using demographic and medical data. Enhanced the project by integrating external data sources and creating a user-facing dashboard for real-time health risk assessments.
