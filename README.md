@@ -1,47 +1,57 @@
-# **Joshua Paul-Lasisi**
-Data Scientist | Chemical Engineer
+# Joshua Paul-Lasisi
+**Data & Product Analyst**
 
-I am a Chemical Engineer turned Data Scientist with over 2 years of experience applying data-driven solutions across education, fintech, and industrial manufacturing. My focus is on leveraging machine learning, cloud technologies, and business intelligence to solve real-world problems, optimize operations, and deliver measurable impact.
+I analyze user and operational behavior to uncover where systems break down, why it happens, and what decisions should be made next.
 
-My background in process engineering gives me a unique perspective on structured problem-solving, while my expertise in Python, SQL, AWS, and Spark enables me to build scalable, production-ready solutions.
+My background spans industrial process data, business intelligence, and product analytics — from monitoring performance at one of Africa’s largest fertilizer plants to investigating retention and activation in e‑commerce products. I work primarily with SQL, Python, and BigQuery to turn large datasets into structured explanations and actionable recommendations.
 
+What interests me most is the layer beneath the metric:
+- Why users behave the way they do
+- What signals predict retention or churn
+- Where businesses are solving the wrong problem
+- Which changes would actually move product outcomes
 
----
-
-## **What You’ll Find Here**
-
-**End-to-End Data Science Projects** – from data collection and cleaning to model deployment.
-
-**Machine Learning & AI Applications** – predictive modeling, NLP, deep learning, and computer vision.
-
-**Interactive Dashboards & Web Apps** – delivering insights through Power BI, Streamlit, and custom visualizations.
-
-**Clean, Reusable Cod** – well-documented and structured for collaboration.
-
-
+Based in Lagos, Nigeria. Open to remote data analyst and product analyst roles globally.
 
 ---
 
-## **Featured Projects**
+## What You’ll Find Here
 
-**Health Risk Assessment (CHD Prediction)**: Built a Gradient Boosting model to predict 10-year coronary heart disease risk.
-
-**Spam Email Classification (NLP)**: Developed an ensemble model (Naive Bayes, Logistic Regression, SVM) with a Streamlit app for real-time spam detection.
-
-**Retail Sales Analysis**: Designed a Power BI dashboard to analyze sales trends, optimize inventory, and improve revenue forecasting.
-
-**Air Quality Analysis**: Conducted EDA and forecasting on global air pollution trends; built dashboards to compare cities and peak pollution periods.
-
-**Brain Tumor Detection (CNNs)**: Developed and deployed a deep learning model for MRI-based brain tumor detection.
-
-**Living Data Atlas (Ongoing)**: An end-to-end platform using AWS & Spark to integrate, process, and visualize real-time socio-economic data.
-
-
+- Product analytics projects (funnels, retention, cohorts, segmentation)
+- SQL & Python analysis workflows
+- Business‑focused investigations and hypothesis testing
+- Dashboards and operational analytics
+- Clear analytical documentation and structured reporting
 
 ---
 
-## **Let’s Connect**
+## Featured Projects
 
-I am actively seeking remote Data Science, Machine Learning, or Business Intelligence roles where I can apply my expertise to deliver actionable insights and scalable solutions.
+### Funnel & Activation Analysis — Google Merchandise Store
+`BigQuery (SQL)` `Python` `matplotlib`
 
-Email: jpaullasisi@gmail.com
+Analyzed 903K+ Google Analytics sessions to investigate why the store converts only 1.28 % of sessions into purchases.
+
+**Key finding:** 86 % of sessions end before a single product view — a pre‑engagement problem, not a checkout issue.
+
+[View repo →](https://github.com/JoshuaPaul-lasisi/funnel-activation)
+
+---
+
+### Customer Retention Analysis — Online Retail Platform
+`Python` `pandas` `matplotlib`
+
+Retention and behavioral analysis across 1M+ transactions testing seven hypotheses about repeat purchase behavior.
+
+**Key findings:** 72.4 % repeat purchase rate; returns correlate positively with retention in wholesale‑heavy segments.
+
+[View repo →](https://github.com/JoshuaPaul-lasisi/product-analytics-user-retention)
+
+---
+
+## Connect
+
+📧 jpaullasisi@gmail.com  
+🌐 [Full Portfolio](https://sky-knight-aae.notion.site/Joshua-Paul-lasisi-35bcf45b658580568f9df2f33bdd7cb4) 
+💼 [LinkedIn](https://linkedin.com/in/joshuapaul-lasisi)  
+🐙 [GitHub](https://github.com/JoshuaPaul-lasisi)
