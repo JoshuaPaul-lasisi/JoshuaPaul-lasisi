@@ -1,57 +1,64 @@
 # Joshua Paul-Lasisi
-**Data & Product Analyst**
+**Data Analyst | Analytics Engineer**
 
-I analyze user and operational behavior to uncover where systems break down, why it happens, and what decisions should be made next.
+I analyze user and operational behavior to find where systems break down, why it happens, and what decisions should follow.
 
-My background spans industrial process data, business intelligence, and product analytics — from monitoring performance at one of Africa’s largest fertilizer plants to investigating retention and activation in e‑commerce products. I work primarily with SQL, Python, and BigQuery to turn large datasets into structured explanations and actionable recommendations.
+My background runs across industrial process data, analytics engineering, and product analytics -- from monitoring DCS performance at one of Africa's largest fertilizer plants to building production-grade dbt pipelines on BigQuery and testing behavioral hypotheses across tens of thousands of e-commerce customers. My primary tools are SQL, Python, dbt Core, BigQuery, and Power BI.
 
 What interests me most is the layer beneath the metric:
 - Why users behave the way they do
-- What signals predict retention or churn
-- Where businesses are solving the wrong problem
-- Which changes would actually move product outcomes
+- What signals actually predict retention or churn
+- Where operations are quietly losing efficiency
+- Which changes would move the outcome, not just the number
 
-Based in Lagos, Nigeria. Open to remote data analyst and product analyst roles globally.
-
----
-
-## What You’ll Find Here
-
-- Product analytics projects (funnels, retention, cohorts, segmentation)
-- SQL & Python analysis workflows
-- Business‑focused investigations and hypothesis testing
-- Dashboards and operational analytics
-- Clear analytical documentation and structured reporting
+Based in Lagos, Nigeria. Open to remote data analyst and analytics engineer roles globally.
 
 ---
 
 ## Featured Projects
 
-### Funnel & Activation Analysis — Google Merchandise Store
-`BigQuery (SQL)` `Python` `matplotlib`
+### Olist Retention Intervention Analytics -- dbt Pipeline on BigQuery
+`dbt Core` `Google BigQuery` `GitHub Actions CI/CD` `DuckDB` `SQL`
 
-Analyzed 903K+ Google Analytics sessions to investigate why the store converts only 1.28 % of sessions into purchases.
+Production-grade analytics engineering pipeline built on the Olist Brazilian e-commerce dataset. Four dbt layers: staging, intermediate, core marts (incremental tables with partitioning and clustering), and analytics marts. Includes SCD Type 2 customer snapshots, 110 data tests, and CI/CD that publishes dbt Docs to GitHub Pages on every push.
 
-**Key finding:** 86 % of sessions end before a single product view — a pre‑engagement problem, not a checkout issue.
-
-[View repo →](https://github.com/JoshuaPaul-lasisi/funnel-activation)
+[View repo →](https://github.com/JoshuaPaul-lasisi/retention-intervention-analytics)
 
 ---
 
-### Customer Retention Analysis — Online Retail Platform
-`Python` `pandas` `matplotlib`
+### Nitrogen Plant Operations Intelligence Dashboard
+`Python` `Power BI` `Synthetic Industrial Dataset`
 
-Retention and behavioral analysis across 1M+ transactions testing seven hypotheses about repeat purchase behavior.
+Operational analytics pipeline for a fictional nitrogen plant -- 2 years of synthetic ISA-tagged hourly readings across 3 process packages, modeled into a star schema (fact: readings; dimensions: equipment, time, alert state) feeding 4 Power BI dashboard pages: production overview, downtime tracker, energy efficiency comparisons, and equipment alert state.
 
-**Key findings:** 72.4 % repeat purchase rate; returns correlate positively with retention in wholesale‑heavy segments.
+[View repo →](https://github.com/JoshuaPaul-lasisi/plant-ops-intelligence)
 
-[View repo →](https://github.com/JoshuaPaul-lasisi/product-analytics-user-retention)
+---
+
+### Olist Customer Retention and Repeat Purchase Analysis
+`Python` `pandas` `scikit-learn` `XGBoost` `Power BI`
+
+Retention and behavioral analysis across 94,703 customers and 97,905 orders testing seven hypotheses about repeat purchase behavior. Includes churn prediction modeling with XGBoost and cohort-level retention analysis.
+
+**Key finding:** 72.4% repeat purchase rate; returns correlate positively with retention in wholesale-heavy segments -- counterintuitive and actionable.
+
+[View repo →](https://github.com/JoshuaPaul-lasisi/olist-customer-retention)
+
+---
+
+## More Projects
+
+| Project | Stack | Key Finding |
+|---|---|---|
+| [Funnel & Activation Analysis -- Google Merchandise Store](https://github.com/JoshuaPaul-lasisi/funnel-activation) | BigQuery SQL, Python, matplotlib | 86% of 903K+ sessions end before a first product view |
+| [Customer Retention -- Online Retail Platform](https://github.com/JoshuaPaul-lasisi/product-analytics-user-retention) | Python, pandas, matplotlib | Repeat purchase patterns across 1M+ transactions |
 
 ---
 
 ## Connect
 
-📧 jpaullasisi@gmail.com  
-🌐 [Full Portfolio](https://sky-knight-aae.notion.site/Joshua-Paul-lasisi-35bcf45b658580568f9df2f33bdd7cb4) 
-💼 [LinkedIn](https://linkedin.com/in/joshuapaul-lasisi)  
+📧 jpaullasisi@gmail.com
+✍️ [Blog](https://tobijoshua.hashnode.dev)
+🌐 [Portfolio](https://sky-knight-aae.notion.site/Joshua-Paul-lasisi-35bcf45b658580568f9df2f33bdd7cb4)
+💼 [LinkedIn](https://linkedin.com/in/joshuapaul-lasisi)
 🐙 [GitHub](https://github.com/JoshuaPaul-lasisi)
